@@ -1,0 +1,14 @@
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\bin\Debug\net9.0\LMS.exe
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\bin\Debug\net9.0\LMS.deps.json
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\bin\Debug\net9.0\LMS.runtimeconfig.json
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\bin\Debug\net9.0\LMS.dll
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\bin\Debug\net9.0\LMS.pdb
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.AssemblyInfoInputs.cache
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.AssemblyInfo.cs
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.dll
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\refint\LMS.dll
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.pdb
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.genruntimeconfig.cache
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\ref\LMS.dll
