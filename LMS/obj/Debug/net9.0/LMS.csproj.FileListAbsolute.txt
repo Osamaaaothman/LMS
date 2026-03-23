@@ -12,3 +12,4 @@ C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net
 C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.pdb
 C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.genruntimeconfig.cache
 C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\ref\LMS.dll
+C:\Users\osamaammar\Desktop\Knowledg\FullStack\BackEnd\ASP\LMS\LMS\obj\Debug\net9.0\LMS.sourcelink.json

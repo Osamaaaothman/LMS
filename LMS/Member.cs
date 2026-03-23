@@ -56,7 +56,19 @@ namespace LMS
             return false;
         }
         public abstract int GetMaxBorrowLimit();
+        public static int operator +(Member m1, Member m2)
+        {
+            return m1.BorrowIndex + m2.BorrowIndex;
 
+        }
+        public static bool operator >(Member m1, Member m2)
+        {
+            return m1.BorrowIndex > m2.BorrowIndex;
+        }
+        public static bool operator <(Member m1, Member m2)
+        {
+            return m1.BorrowIndex < m2.BorrowIndex;
+        }
 
     }
 }

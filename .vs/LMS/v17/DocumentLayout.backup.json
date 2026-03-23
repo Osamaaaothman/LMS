@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|c:\\users\\osamaammar\\desktop\\knowledg\\fullstack\\backend\\asp\\lms\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|solutionrelative:lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|c:\\users\\osamaammar\\desktop\\knowledg\\fullstack\\backend\\asp\\lms\\lms\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|solutionrelative:lms\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|c:\\users\\osamaammar\\desktop\\knowledg\\fullstack\\backend\\asp\\lms\\lms\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|solutionrelative:lms\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|solutionrelative:lms\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|c:\\users\\osamaammar\\desktop\\knowledg\\fullstack\\backend\\asp\\lms\\lms\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|solutionrelative:lms\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|c:\\users\\osamaammar\\desktop\\knowledg\\fullstack\\backend\\asp\\lms\\lms\\ifinecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|solutionrelative:lms\\ifinecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A6AA2DF-21E4-4CCC-8095-2DC021FD4129}|LMS\\LMS.csproj|c:\\users\\osamaammar\\desktop\\knowledg\\fullstack\\backend\\asp\\lms\\lms\\teachermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Member.cs",
-              "RelativeDocumentMoniker": "LMS\\Member.cs",
-              "ToolTip": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Member.cs",
-              "RelativeToolTip": "LMS\\Member.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA0wCEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T21:56:56.978Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
@@ -64,32 +59,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "LMS\\Program.cs",
+              "ToolTip": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Program.cs",
+              "RelativeToolTip": "LMS\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwFMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:32:59.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFineCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\IFineCalculator.cs",
+              "RelativeDocumentMoniker": "LMS\\IFineCalculator.cs",
+              "ToolTip": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\IFineCalculator.cs",
+              "RelativeToolTip": "LMS\\IFineCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:23:46.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Member.cs",
+              "RelativeDocumentMoniker": "LMS\\Member.cs",
+              "ToolTip": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Member.cs",
+              "RelativeToolTip": "LMS\\Member.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T21:56:56.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Library.cs",
               "RelativeDocumentMoniker": "LMS\\Library.cs",
               "ToolTip": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Library.cs",
               "RelativeToolTip": "LMS\\Library.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwEUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T21:37:49.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Transaction.cs",
               "RelativeDocumentMoniker": "LMS\\Transaction.cs",
               "ToolTip": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\Transaction.cs",
               "RelativeToolTip": "LMS\\Transaction.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAywBQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T21:36:10.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TeacherMember.cs",
               "DocumentMoniker": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\TeacherMember.cs",
               "RelativeDocumentMoniker": "LMS\\TeacherMember.cs",
@@ -97,12 +131,11 @@
               "RelativeToolTip": "LMS\\TeacherMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T21:35:07.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T21:35:07.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StudentMember.cs",
               "DocumentMoniker": "C:\\Users\\osamaammar\\Desktop\\Knowledg\\FullStack\\BackEnd\\ASP\\LMS\\LMS\\StudentMember.cs",
               "RelativeDocumentMoniker": "LMS\\StudentMember.cs",
@@ -110,8 +143,7 @@
               "RelativeToolTip": "LMS\\StudentMember.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T21:29:42.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T21:29:42.202Z"
             }
           ]
         }

@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace LMS
 {
-    public class Library
+    public class Library:IFineCalculator
     {
         private int totalBooks;
         private int totalMembers;
@@ -89,6 +90,77 @@ namespace LMS
         }
 
 
-        
+        public bool ReturnBook(int memberId, int bookId, int days)
+        {
+            Book book = null;
+            Member member = null;
+            foreach (Book b in Books)
+            {
+                if (b.Id == bookId)
+                {
+                    book = b;
+                    break;
+                }
+            }
+            foreach (Member m in Members)
+            {
+                if (m.Id == memberId)
+                {
+                    member = m;
+                    break;
+                }
+            }
+            if (book == null)
+            {
+                Console.WriteLine("Book not found");
+                return false;
+            }
+            if (member == null)
+            {
+                Console.WriteLine("Member not found");
+                return false;
+            }
+            if (member.ReturnBook(book))
+            {
+                Transaction t = new Transaction();
+                t.BookTitle = book.Title;
+                t.MemberName = member.Name;
+                t.BorrowDate = DateTime.Now;
+                t.Type = TransactionType.Return;
+                Transactions[totalTransactions] = t;
+                totalTransactions++;
+                TotalBorrowedBooks--;
+                double fine = CalculateFine(days);
+                if (fine > 0)
+                {
+                    Console.WriteLine($"Book returned with a fine of ${fine}");
+                }
+                else
+                {
+                    Console.WriteLine("Book returned on time. No fine.");
+                }
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("Return failed. The member may not have borrowed this book.");
+                return false;
+            }
+        }
+
+        public double CalculateFine(int daysLate)
+        {
+            return daysLate * 0.5; 
+        }
+
+
+
+        public void PrintTransactions()
+        {
+            foreach(Transaction t in Transactions){
+                if(t!=null)
+                t.Print();
+            }
+        }
     }
 }
